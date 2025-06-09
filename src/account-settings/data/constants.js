@@ -32,7 +32,7 @@ export const GENDER_OPTIONS = [
   '',
   'f',
   'm',
-  'o',
+  // 'o',  // Removed: Other option
 ];
 export const WORK_EXPERIENCE_OPTIONS = [
   '',
